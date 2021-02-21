@@ -6,7 +6,7 @@ This game was developed in the summer of 2020 for AP Final Project.
 
 # Note  
 1. Computer tank movement is random  
-2. GUI is coded by Mohammadreza Shahrestani  
+2. GUI is coded by [Mohammadreza Shahrestani](https://github.com/m-shahrestani "Mohammadreza Shahrestani")  
 3. I used JTatto Texture Look And Feel  
 4. I used "Chilanka" font  
 5. The multiplayer section didn't not complete  
